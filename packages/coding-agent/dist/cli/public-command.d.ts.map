@@ -1,0 +1,1 @@
+{"version":3,"file":"public-command.d.ts","sourceRoot":"","sources":["../../src/cli/public-command.ts"],"names":[],"mappings":"AAkBA,MAAM,WAAW,mBAAmB;IACnC,OAAO,EAAE,OAAO,CAAC;IACjB,IAAI,EAAE,MAAM,EAAE,CAAC;IACf,kBAAkB,EAAE,OAAO,CAAC;IAC5B,WAAW,CAAC,EAAE,MAAM,CAAC;CACrB;AAID,wBAAsB,mBAAmB,CAAC,IAAI,EAAE,MAAM,EAAE,GAAG,OAAO,CAAC,mBAAmB,CAAC,CAMtF"}

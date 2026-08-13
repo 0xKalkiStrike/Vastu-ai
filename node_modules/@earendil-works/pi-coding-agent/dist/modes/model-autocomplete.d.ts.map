@@ -1,0 +1,1 @@
+{"version":3,"file":"model-autocomplete.d.ts","sourceRoot":"","sources":["../../src/modes/model-autocomplete.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,gBAAgB,EAAE,MAAM,wBAAwB,CAAC;AAG/D,MAAM,WAAW,0BAA0B;IAC1C,EAAE,EAAE,MAAM,CAAC;IACX,QAAQ,EAAE,MAAM,CAAC;CACjB;AAED,wBAAgB,2BAA2B,CAC1C,MAAM,EAAE,MAAM,EACd,MAAM,EAAE,aAAa,CAAC,0BAA0B,CAAC,GAC/C,gBAAgB,EAAE,GAAG,IAAI,CAgB3B"}

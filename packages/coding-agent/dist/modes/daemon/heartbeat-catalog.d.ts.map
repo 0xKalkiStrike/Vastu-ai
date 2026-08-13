@@ -1,0 +1,1 @@
+{"version":3,"file":"heartbeat-catalog.d.ts","sourceRoot":"","sources":["../../../src/modes/daemon/heartbeat-catalog.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,wBAAwB,EAAE,MAAM,8BAA8B,CAAC;AAC7E,OAAO,KAAK,EAAE,YAAY,EAAE,MAAM,oBAAoB,CAAC;AAIvD,wBAAsB,oBAAoB,CACzC,MAAM,EAAE,YAAY,EACpB,eAAe,CAAC,EAAE,MAAM,GACtB,OAAO,CAAC,wBAAwB,EAAE,CAAC,CAgBrC"}

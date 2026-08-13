@@ -1,0 +1,1 @@
+{"version":3,"file":"skill-blocks.d.ts","sourceRoot":"","sources":["../../src/core/skill-blocks.ts"],"names":[],"mappings":"AAAA,8CAA8C;AAC9C,MAAM,WAAW,gBAAgB;IAChC,IAAI,EAAE,MAAM,CAAC;IACb,QAAQ,EAAE,MAAM,CAAC;IACjB,OAAO,EAAE,MAAM,CAAC;IAChB,WAAW,EAAE,MAAM,GAAG,SAAS,CAAC;CAChC;AAED;;;GAGG;AACH,wBAAgB,eAAe,CAAC,IAAI,EAAE,MAAM,GAAG,gBAAgB,GAAG,IAAI,CASrE"}

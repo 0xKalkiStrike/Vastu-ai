@@ -1,0 +1,1 @@
+{"version":3,"file":"daemon-errors.d.ts","sourceRoot":"","sources":["../../../src/modes/daemon/daemon-errors.ts"],"names":[],"mappings":"AAGA,OAAO,KAAK,EAAE,eAAe,EAAE,cAAc,EAAE,MAAM,sBAAsB,CAAC;AAE5E,wBAAgB,oBAAoB,CAAC,KAAK,EAAE,OAAO,GAAG,eAAe,GAAG,SAAS,CAehF;AAED,wBAAgB,sBAAsB,CAAC,QAAQ,EAAE,OAAO,CAAC,cAAc,EAAE;IAAE,OAAO,EAAE,KAAK,CAAA;CAAE,CAAC,GAAG,KAAK,CAYnG"}
